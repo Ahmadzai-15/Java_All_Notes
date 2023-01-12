@@ -1,4 +1,4 @@
-package Cllass7_Loop;
+package Class7_Loop;
 
 public class WhileLoop4_ScannerClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Cllass7_Loop;
+package Class7_Loop;
 
 public class WhileLoop6_boolean {
     public static void main(String[] args) {
