@@ -1,6 +1,6 @@
 package Class8_NestedLoop;
-import java.util.Scanner;
-public class HW {
+
+public class HW_DivisiableBy3 {
         public static void main(String[] args) {
 
            // 1) Print numbers from 1 to 50 except those that are divisible by 3

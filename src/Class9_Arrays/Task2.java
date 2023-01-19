@@ -1,6 +1,6 @@
 package Class9_Arrays;
 import java.util.Scanner;
-public class ArrayTask2 {
+public class Task2 {
     public static void main(String[] args) {
         /*
         Create a program that will be asking user to apply for a credit card 10 times.

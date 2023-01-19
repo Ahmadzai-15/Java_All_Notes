@@ -1,6 +1,6 @@
 package HomeWorks;
 
-public class ArrayHW6 {
+public class ArrayHW4 {
     public static void main(String[] args) {
         /*4) Create an array that can store names of cars and store
         6 elements into it.Print all values from the array.*/

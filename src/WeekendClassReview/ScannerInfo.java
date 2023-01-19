@@ -1,4 +1,4 @@
-package JavaReviewes;
+package WeekendClassReview;
 import java.util.Scanner;
 public class ScannerInfo {
     public static void main(String[] args) {

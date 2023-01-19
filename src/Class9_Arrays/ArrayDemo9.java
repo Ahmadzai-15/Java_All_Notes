@@ -1,6 +1,6 @@
 package Class9_Arrays;
 
-public class ArrayDemo10 {
+public class ArrayDemo9 {
     public static void main(String[] args) {
         // I love Java
         char[] letters={'I',' ','L','o','v','e',' ','J','a','v','a'};

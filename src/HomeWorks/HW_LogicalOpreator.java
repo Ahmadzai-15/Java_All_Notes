@@ -1,6 +1,6 @@
 package HomeWorks;
 import java.util.Scanner;
-public class HW_LG {
+public class HW_LogicalOpreator {
     public static void main(String[] args) {
         /*
         5) Write a program to find largest of three double values using if-else..
