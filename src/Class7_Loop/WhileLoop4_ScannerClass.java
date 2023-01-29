@@ -10,6 +10,8 @@ public class WhileLoop4_ScannerClass {
             number++;
         }
         System.out.println(sum);
+
+
     }
     }
 

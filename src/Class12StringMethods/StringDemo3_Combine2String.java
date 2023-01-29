@@ -1,4 +1,4 @@
-package Class12;
+package Class12StringMethods;
 
 public class StringDemo3_Combine2String {
     public static void main(String[] args) {

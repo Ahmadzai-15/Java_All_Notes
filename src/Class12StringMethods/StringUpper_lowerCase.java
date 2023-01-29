@@ -1,4 +1,4 @@
-package Class12;
+package Class12StringMethods;
 
 public class StringUpper_lowerCase {
     public static void main(String[] args) {

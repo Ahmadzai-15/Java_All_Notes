@@ -1,4 +1,4 @@
-package Class12;
+package Class12StringMethods;
 
 public class Class12Substring {
 

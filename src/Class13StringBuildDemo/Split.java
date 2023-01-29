@@ -1,4 +1,4 @@
-package Class13StringMethods2;
+package Class13StringBuildDemo;
 
 public class Split {
     public static void main(String[] args) {

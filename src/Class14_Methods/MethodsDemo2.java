@@ -1,4 +1,4 @@
-package Class14;
+package Class14_Methods;
 public class MethodsDemo2 {
     //void mean do not print somethings
 

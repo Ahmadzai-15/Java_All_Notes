@@ -1,4 +1,4 @@
-package Class14;
+package Class14_Methods;
 
 public class Method1Demo {
     public static void main(String[] args) {

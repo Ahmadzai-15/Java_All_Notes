@@ -1,16 +1,18 @@
-package Class12;
+package Class12StringMethods;
 
 public class Class10 {
     public static void main(String[] args) {
-        String str="Java is not pain";
+        String s1 = "hello how are you";
 
-        System.out.println(str.indexOf("J"));
+        boolean endsWithWorld = s1.endsWith("world");
+        System.out.println( endsWithWorld);
 
+        boolean endsWithAre = s1.endsWith("are");
+        System.out.println(endsWithAre);
 
-        for (int i = 0; i < str.length(); i++) {
-            System.out.println(str.charAt(i)+" has the index of "+i);
-
+        boolean endsWithYou = s1.endsWith("you");
+        System.out.println(endsWithYou);
         }
 
     }
-}
+

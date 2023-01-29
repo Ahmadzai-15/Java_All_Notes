@@ -1,4 +1,4 @@
-package Class13;
+package Class12StringMethods;
 
 public class Task1Important {
     public static void main(String[] args) {

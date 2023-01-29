@@ -1,4 +1,4 @@
-package Class13;
+package Class12StringMethods;
 
 public class Task3MidlleName {
     public static void main(String[] args) {

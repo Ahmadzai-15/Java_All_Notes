@@ -1,4 +1,4 @@
-package Class12;
+package Class12StringMethods;
 
 public class StringDemo5Equal {
     public static void main(String[] args) {

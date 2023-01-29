@@ -1,4 +1,4 @@
-package Class13StringMethods2;
+package Class13StringBuildDemo;
 
 public class ReplaceAllMethodDemo {
     public static void main(String[] args) {

@@ -1,2 +1,5 @@
-package WeekendClassReview;public class TaskCountryScanner {
+package WeekendClassReview;
+
+public class TaskCountryScanner {
+
 }

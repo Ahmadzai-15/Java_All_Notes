@@ -1,4 +1,4 @@
-package Class13;
+package Class12StringMethods;
 
 public class StringRecap {
     public static void main(String[] args) {
