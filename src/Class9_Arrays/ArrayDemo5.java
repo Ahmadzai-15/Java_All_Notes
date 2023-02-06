@@ -12,7 +12,7 @@ public class ArrayDemo5 {
         numbers[4]=52;
 
         for (int i = 0; i <numbers.length ; i++) {
-            System.out.println(numbers[i]);
+            System.out.println(numbers[2]);
         }
     }
 }

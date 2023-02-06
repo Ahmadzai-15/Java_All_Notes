@@ -3,7 +3,7 @@ package Class3_IfElse;
 public class IfElse_5 {
     public static void main(String[] args) {
 
-        int money=150;
+        int money=1500;
         if(money>300){
             System.out.println("Lets go for shoping");// if true so this outout will be print
         }else{
