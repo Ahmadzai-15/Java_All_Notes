@@ -3,7 +3,7 @@ package Class6_SwitchCase;
 public class SwitchCaseDemo {
     public static void main(String[] args) {
 
-        int day=1;
+        int day=6;
         switch (day){
             case 1:
                 System.out.println("Monday");

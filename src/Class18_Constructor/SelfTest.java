@@ -15,11 +15,11 @@ public class SelfTest {
         weight=weight1;
     }
     void print(){
-        System.out.println("Name: "+name+ "Price: "+Price+" Weight: "+weight);
+        System.out.println("Name: "+name+ "Price: "+Price+"$"+" Weight: "+weight);
     }
 
     public static void main(String[] args) {
-        SelfTest st=new SelfTest("Java for Dummies ", 112, 200.3);
+        SelfTest st=new SelfTest("Java for Dummies ", 112, 180.5);
         st.print();
     }
 
