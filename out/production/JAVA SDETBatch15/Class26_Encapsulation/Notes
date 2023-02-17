@@ -1,0 +1,5 @@
+
+
+        Interface:
+        interface is very similar to an abstract class. it is a constract between unrelated classes, we can
+        use it to achive  abstraction . all methods are public by default and abstruct as well.

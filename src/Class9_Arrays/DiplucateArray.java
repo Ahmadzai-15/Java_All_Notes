@@ -9,7 +9,7 @@ public class DiplucateArray {
         for (int i = 0; i <array.length ; i++) {
 
             sum=sum+array[i].length;
-            System.out.println(sum);
+            System.out.println("the dup number is "+sum);
 
 
 
