@@ -1,7 +1,6 @@
 package Class26_Encapsulation;
 
-public class Account {
-
+public class Account2 {
         private double balance;
         private String accountNumber;
         private String type;
@@ -34,20 +33,20 @@ public class Account {
             return  accountTitle;
         }
 
-        public Account(double balance, String accountNumber, String type, String accountTitle) {
+        public Account2(double balance, String accountNumber, String type, String accountTitle) {
             this.balance = balance;
             this.accountNumber = accountNumber;
             this.type = type;
             this.accountTitle = accountTitle;
         }
-// Break till 8:50
+
 
     }
 
     class AccountTester{
         public static void main(String[] args) {
 
-            Account account=new Account(-1000,"kjnfjkddsn","dsnfksf","kdnfksnf");
+            Account2 account=new Account2(-1000,"kjnfjkddsn","dsnfksf","kdnfksnf");
 
             System.out.println(account.getAccountTitle());
             account.setBalance(-4546456);

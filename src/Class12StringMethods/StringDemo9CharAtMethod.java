@@ -11,7 +11,7 @@ public class StringDemo9CharAtMethod {
                 counter++;
             }
         }
-        System.out.println("Total isAlphabetic in Str "+counter);
+        System.out.println("Total Alphabetic in Str is  "+counter);
     }
 }
 
