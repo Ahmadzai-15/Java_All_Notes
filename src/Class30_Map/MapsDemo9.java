@@ -11,13 +11,20 @@ public class MapsDemo9 {
         Print all values from a country map using for each loop and iterator.*/
 
         Map<String, String> countries = new TreeMap<>();
-
-        countries.put("Afghanistan", "Kabul");
+        countries.put("Moroco", "Rabat");
         countries.put("USA", "Washington DC");
         countries.put("France", "Paris");
         countries.put("Turkey", "Ancra");
         countries.put("India", "Delhi");
-        System.out.println(countries);
+        System.out.println(countries.values());
+        var values=countries.values();
+        for(var value:values){
+            System.out.println(value);
+        }
+        var iterator=countries.values().iterator();
+        while (iterator.hasNext());
+        var value=iterator.next();
+        System.out.println(value);
 
         
 

@@ -12,6 +12,13 @@ public class MapsDemo4 {
         makeup.put("mascara",70.0);
         makeup.put("eyeliner",12.2);
         makeup.put("Blush-on",12.2);
+
+        //we can access all keys and values in this way line 17,18
+        System.out.println(makeup.keySet());
+        System.out.println(makeup.values());
+        System.out.println(makeup);
+        System.out.println("*********************************");
+
         // TO get all the keys we can use keySet Method from Map interface
         Set<String> allKeys=makeup.keySet();
         System.out.println(allKeys);
@@ -21,6 +28,7 @@ public class MapsDemo4 {
         allKeys.removeIf(x->x.length()>7);
         System.out.println(allKeys);
         System.out.println(makeup);
+
 
 
 

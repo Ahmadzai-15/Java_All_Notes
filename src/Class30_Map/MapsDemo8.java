@@ -18,6 +18,7 @@ Print all values from a country map using for each loop and iterator.
         countries.put("India", "New Delhi");
         countries.put("France", "Paris");
 
+
         //Set<Map.Entry<String,String>> entrySet=countries.entrySet();
         var entrySet = countries.entrySet();
         for (var entry : entrySet
