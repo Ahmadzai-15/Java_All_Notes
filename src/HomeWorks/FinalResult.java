@@ -18,11 +18,11 @@ public class FinalResult {
         System.out.println("Enter your Score :");
         number=scan.nextInt();
 
-        if(number>=90){
+        if(number>=90 &&(number<=100)){
             System.out.println("Grade A");
         }else if(number>=70&&(number<=90)){
             System.out.println("Grade B");
-        }else if(number>=50&&(number>=70)){
+        }else if(number>=50&&(number<=70)){
             System.out.println("Grade C");
         }else {
             System.out.println("Grade F ");

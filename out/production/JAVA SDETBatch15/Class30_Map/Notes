@@ -13,8 +13,13 @@
             Upside: keeps the data sorted
             Downside: it's slower than all.
         Map:
+        Map is the collection of entry object, entry object are that store key and value. we use map to stor pairs of
+        object.
             Maps allow us to store data in the form of key value pairs. Just like Sets we have three main types of maps
-            as well 1)HashMap 2) LinkedHashMap  3) TreeMap
+            as well
+            1) HashMap
+            2) LinkedHashMap
+            3) TreeMap
         HashMap(most widely used):
             Upside: Speed it's the fastest
             downside: It does not maintain the insertion order.
