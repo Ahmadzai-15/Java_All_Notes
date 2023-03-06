@@ -25,7 +25,7 @@ public class RemoveDemo {
             }
         }
          */
-        // does not work in java 7
+        // does not work in java 7 but works java 8.1 or latest version and called it Lambda expression.
         words.removeIf(x -> x.endsWith("a"));
 
         System.out.println(words);

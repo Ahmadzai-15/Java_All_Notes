@@ -21,7 +21,5 @@ public class Demo6 {
             System.out.println(booleans.get(i));        //same out put will be like for loop
             i++;
         }
-
-
     }
 }

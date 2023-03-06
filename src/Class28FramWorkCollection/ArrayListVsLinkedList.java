@@ -11,7 +11,7 @@ public class ArrayListVsLinkedList {
 
         long startTime=System.currentTimeMillis();
         LinkedList<String>numbers=new LinkedList<>();
-        for (int i = 0; i <1000000 ; i++) {
+        for (int i = 0; i <100000 ; i++) {
             numbers.add(0,"test");
         }
         long endTime=System.currentTimeMillis();

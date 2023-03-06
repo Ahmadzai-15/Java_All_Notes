@@ -11,17 +11,18 @@ public class Demo1 {
         words.add("Lava");
         words.add("Computer");
 
-
+//its not working with loop and enhaceloop.only it works in lambda expression check class RemoveDemo
 
         // remove all the elements from this list which ends with a
-      /*  for (String s:words
+       /*for (String s:words
              ) {
             if(s.endsWith("a")){
                 words.remove(s);
             }
         }*/
 
-        for (int i = 0; i < words.size(); i++) {
+        // sometime its not working properly
+       for (int i = 0; i < words.size(); i++) {
             if(words.get(i).endsWith("a")){
                 words.remove(i);
             }

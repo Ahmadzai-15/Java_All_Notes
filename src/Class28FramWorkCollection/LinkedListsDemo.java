@@ -11,10 +11,10 @@ public class LinkedListsDemo {
         names.add("Tammi");
         names.add("Temuz");
         names.add("Sam");
-        System.out.println(names);
+        System.out.println("Direct print "+names);
 
         for(String s:names){
-            System.out.println(s);
+            System.out.println("By loop "+s);
         }
     }
 }
