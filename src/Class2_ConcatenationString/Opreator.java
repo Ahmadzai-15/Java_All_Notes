@@ -12,8 +12,8 @@ public class Opreator {
         System.out.println(number1+number2); // addition
         // Put your cursor anywhere on a line and press Ctrl+D or CMD+D to duplicate it.
         System.out.println(number1-number2); // subtraction
-        System.out.println(number1*number2); // subtraction
-        System.out.println(number1/number2); // subtraction
+        System.out.println(number1*number2); // Multipluction
+        System.out.println(number1/number2); // Divid
 
         /*
         if you have to store whole numbers always use int

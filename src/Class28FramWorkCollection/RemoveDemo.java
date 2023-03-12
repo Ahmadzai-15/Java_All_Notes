@@ -10,12 +10,14 @@ public class RemoveDemo {
         words.add("Java");
         words.add("Computer");
         words.add("Lava");
-        // it does not work in java 9 and below
+
+
+        // it Var keyword it use it java 10 no need to specify data type, java will understand what data you use.
         var name="kdbsfnjksdf";
         var c='s';
         var f=12.5;
 
-        // it works from java 6 to java 19
+
         /*
         Iterator<String> iterator=words.iterator();
         while (iterator.hasNext()){
@@ -24,7 +26,9 @@ public class RemoveDemo {
                 iterator.remove();
             }
         }
-         */
+        System.out.println(words);   */
+
+
         // does not work in java 7 but works java 8.1 or latest version and called it Lambda expression.
         words.removeIf(x -> x.endsWith("a"));
 

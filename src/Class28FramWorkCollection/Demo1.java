@@ -21,7 +21,7 @@ public class Demo1 {
             }
         }*/
 
-        // sometime its not working properly
+        // sometimes it's not working properly
        for (int i = 0; i < words.size(); i++) {
             if(words.get(i).endsWith("a")){
                 words.remove(i);

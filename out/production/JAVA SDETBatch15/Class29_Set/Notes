@@ -1,7 +1,9 @@
 
-
+        Any kind of loop to performer in collection some time not working that's why we use iterator to
+        perform different activities.
         Iterator:
-        Sets like HashSet,LinkedHashSet and TreeSet don't allow duplicate values. There are three main types of Sets
+        Sets like HashSet,LinkedHashSet and TreeSet don't allow duplicate values.
+        There are three main types of Sets
         HashSet:
             Upside:Fast
             Downside: Does not retain the insertion order
