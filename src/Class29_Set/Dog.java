@@ -10,6 +10,6 @@ public class Dog {
         this.age = age;
     }
     void printDogName(){
-        System.out.println(name);
+        System.out.println(breed);
     }
 }

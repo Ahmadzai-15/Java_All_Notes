@@ -7,6 +7,6 @@ public class Calculator {
         }
         public void divide(){
             Divider divider=new Divider();
-            divider.divide();
+            divider.divide();   //here is the another methode which have a problem,
     }
 }

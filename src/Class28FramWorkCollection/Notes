@@ -39,3 +39,20 @@
      between then you should always use ArrayList.
     if most of the time you add or remove elements from in-between and don't use get method then
     you should use LinkedList.
+
+
+    ArrayList<String> drinks = new ArrayList<>();
+            drinks.add("Vodka");
+            drinks.add("Juice");
+            drinks.add("Beer");  // 2 , water
+            drinks.add("Milk");
+
+            for (int i = 0; i < drinks.size(); i++) {
+                String drink = drinks.get(i);
+                if(drink.contains("a")||drink.contains("e")){
+                    drinks.set(i,"water"); // replacing. The 'I' is index of loop
+                }
+            }
+            System.out.println(drinks);
+
+    Object.set(i,water);   replace the element in arraylist or linkedlist

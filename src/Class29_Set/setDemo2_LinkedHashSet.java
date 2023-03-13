@@ -2,10 +2,10 @@ package Class29_Set;
 
 import java.util.LinkedHashSet;
 
-public class setDemo2 {
+public class setDemo2_LinkedHashSet {
     public static void main(String[] args) {
 
-        //Does not allow duplication and retains the insertion order
+        //LinkedHashSet Does not allow duplication but retains the insertion order
         LinkedHashSet<String>fruit=new LinkedHashSet<>();
         fruit.add("Mango");
         fruit.add("Kiwi");
